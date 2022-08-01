@@ -12,3 +12,5 @@ utilizar etiquetas semánticas en el HTML y no abusar de los divs.
 
 
 ## Imagen del proyecto:
+
+![TARGET_16](https://user-images.githubusercontent.com/70084380/182257305-db688c08-65b1-4c6c-b3c7-41e41bfac162.jpg)
