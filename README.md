@@ -11,4 +11,4 @@ Consejo a tomar en cuenta para no tener problemas en la estructura
 utilizar etiquetas semánticas en el HTML y no abusar de los divs.
 
 
-##Imagen del proyecto:
+## Imagen del proyecto:
