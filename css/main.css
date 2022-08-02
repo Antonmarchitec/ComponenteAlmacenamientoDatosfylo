@@ -162,14 +162,14 @@ body, html {
   .container {
     width: 100%;
     max-width: 1440px;
-    height: 100%;
+    height: 800px;
     background-image: url(../images/bg-mobile.png);
     background-size: 100% 100%;
     margin: auto;
   }
   .container .container_top {
     width: 100%;
-    height: 50vh;
+    height: 50%;
     position: relative;
   }
   .container .container_top .container_base {
@@ -301,7 +301,7 @@ body, html {
   }
   .container .container_botton {
     width: 100%;
-    height: 50vh;
+    height: 50%;
   }
 }
 
